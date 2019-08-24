@@ -13,7 +13,7 @@
 
 ## Links List
 
-Live CSS:         [https://willinspire.github.io/hterm.css/hterm.css](http://bit.ly/hterm-css-source)
-Demo Page:        [https://willinspire.github.io/hterm.css/](http://bit.ly/hterm-css-demo)
-Github Repo:      [https://github.com/willinspire/hterm.css](http://bit.ly/hterm-css-github)
+- Live CSS: [https://willinspire.github.io/hterm.css/hterm.css](http://bit.ly/hterm-css-source)
+- Demo Page: [https://willinspire.github.io/hterm.css/](http://bit.ly/hterm-css-demo)
+- Github Repo: [https://github.com/willinspire/hterm.css](http://bit.ly/hterm-css-github)
 
