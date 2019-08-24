@@ -1,3 +1,20 @@
+/*
+     _   _ _____ ______________  ___
+    | | | |_   _|  ___| ___ \  \/  |
+    | |_| | | | | |__ | |_/ / .  . |  ___ ___ ___
+    |  _  | | | |  __||    /| |\/| | / __/ __/ __|
+    | | | | | | | |___| |\ \| |  | || (__\__ \__ \
+    \_| |_/ \_/ \____/\_| \_\_|  |_(_)___|___/___/
+
+    A terminal-like stylesheet for HTML
+    Version: 0.1-20190823
+    ----------------------------------------------
+    Source:  http://bit.ly/hterm-css-source
+    Demo:    http://bit.ly/hterm-css-demo
+    Github:  http://bit.ly/hterm-css-github
+
+*/
+
 body {
     margin: 0;
     padding: 3px;
@@ -10,12 +27,24 @@ body {
     cursor: crosshair;
 }
 
+pre {
+    font-family: monospace;
+    font-size: 10px;
+    line-height: 13px;
+    background-color: black;
+    color: green;
+    white-space: normal;
+    cursor: crosshair;
+    padding: 0 2px;
+}
+
 a {
     color: #0d5cab;
     font-family: monospace;
     font-size: 10px;
     line-height: 13px;
     background-color: black;
+    padding: 0 2px;
     text-decoration: none;
     -webkit-transition-property: color;
     -webkit-transition-duration: 0.5s;
@@ -71,7 +100,7 @@ a:hover {
 }
 
 .tc-grey-bg {
-    background-color: grey;
+    background-color: #808080;
     color: black;
     padding: 0 2px;
 }
@@ -96,8 +125,8 @@ a:hover {
 }
 
 .tc-grey-bg-w {
-    background-color: grey;
-    color: black;
+    background-color: #616161;
+    color: white;
     padding: 0 2px;
 }
 
