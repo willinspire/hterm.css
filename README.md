@@ -17,3 +17,11 @@
 - Demo Page: [https://willinspire.github.io/hterm.css/](http://bit.ly/hterm-css-demo)
 - Github Repo: [https://github.com/willinspire/hterm.css](http://bit.ly/hterm-css-github)
 
+## Change Log
+
+- **20190826** - Added styles for the `<hr>` tag
+
+```
+hr {border-color: green;border-style: dashed;}
+```
+
