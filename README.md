@@ -19,10 +19,10 @@
 
 ## Change Log
 
-**20190826** (0.1-20190826) - Added styles for the `<hr>` tag
+**20190826** (v.0.1-20190826) - Added styles for the `<hr>` tag
 
 ```
 hr {border-color: green;border-style: dashed;}
 ```
 
-**20190823** (0.1-20190823) - Initial stylesheet and repository creation
+**20190823** (v.0.1-20190823) - Initial stylesheet and repository creation
