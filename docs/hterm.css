@@ -27,6 +27,8 @@ body {
     cursor: crosshair;
 }
 
+/* Pre-formatted text styles */
+
 pre {
     font-family: monospace;
     font-size: 10px;
@@ -36,6 +38,8 @@ pre {
     cursor: crosshair;
     padding: 0 2px;
 }
+
+/* Link and link-hover styles */
 
 a {
     color: #0d5cab;
@@ -60,7 +64,15 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Horrizontal line styles */
+
+hr {
+    border-color: green;
+    border-style: dashed;
+}
+
 /* Text Colors -- Variation 1 */
+
 .tc-blue {
     background-color: black;
     color: #0d5cab;
@@ -136,6 +148,7 @@ a:hover {
 }
 
 /* Scrollbar Width - Track - Handle - Effects - Handle on Hover */
+
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
